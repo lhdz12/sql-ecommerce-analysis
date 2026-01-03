@@ -67,7 +67,7 @@ Each business question is answered in its own SQL file.
 - Time-based analysis using `strftime`  
 - Business-oriented analytical thinking  
 - Clean and reproducible query design  
-- Basic Python data visualization and commentary (optional)  
+- Basic Python data visualization and commentary
 
 ---
 
