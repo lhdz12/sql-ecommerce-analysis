@@ -39,7 +39,7 @@ Each business question is answered in its own SQL file.
 | `revenue_per_seller.sql` | Which sellers generate the most revenue? |
 | `revenue_per_state.sql` | Which customer states generate the most revenue? |
 | `revenue_per_year_month.sql` | How does revenue evolve over time (year–month)? |
-| `top_seller_per_category.sql` | Which seller generates the most revenue in each category? |
+| `top_seller_per_category_and_mkt_share.sql` | Which seller generates the most revenue in each category, and what percentage of revenue do they make? |
 
 ---
 
