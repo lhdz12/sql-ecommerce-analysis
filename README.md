@@ -1,4 +1,8 @@
 # Brazilian E-Commerce Revenue Analysis (SQL Portfolio)
+--- 
+Author: Laurie Hernández
+
+---
 
 ## Project Overview
 This project is a SQL-based analytics portfolio built using a Brazilian e-commerce dataset (Olist-style).  
